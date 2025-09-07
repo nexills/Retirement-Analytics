@@ -1,4 +1,5 @@
-# CMPT353_Project
+# Retirement Analytics
+Course Project from CMPT 353 Computational Data Science
 
 ## Build
 Python 3 is used for this project and is required. Python notebook also need to be setup.
@@ -25,3 +26,4 @@ Project/
     ├── analysis3.ipynb     // For Q3  
     └── boxplot.ipynb       // Additional explanation for how I made the boxplots  
 ```
+
